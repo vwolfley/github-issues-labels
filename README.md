@@ -8,41 +8,28 @@
 A approach to managing consistency across multiple repositories.
 These are descriptive labels which help to manage the list of issues.
 
-### Label Groups
-Mindless      | Experience | Priority | Status    | Type 
---------      | --------   | ------   | ------    | -- 
-docs          | design     | low      | blocked   | bug
-documentation | database   | medium   | completed | discussion
-structure     | ux         | high     | in-progress | duplicate
-|             |            | critical | inactive  | enhancement
-|             |            |          | on-hold   | feature
-|            |             |          | review-needed | fix
-|            |             |          | wont-fix  | help-needed
-|            |             |          | by-design | idea
-|            |             |          | cant-reproduce | maintenance
-|            |             |          |           | optimization
-|            |             |          |           | testing
+## Label Groups
 
-#### Mindless
+### Mindless
 Reorganizing folder structure, updating documents, documentation, and other necessary but less impactful tasks.
 * `Mindless: docs` -
 * `Mindless: documentation` - The issue or pull request relates to documentation of features or meta information, e.g. website, wiki, contribution guidelines, readme, etc.
 * `Mindless: structure` -
 
-#### Experience
+### Experience
 Affect user’s comprehension, or overall enjoyment of the product. These can be both opportunities and “UX bugs”.
 * `Experience: design` -
 * `Experience: database` -
 * `Experience: ui-ux` -
 
-#### Priority
+### Priority
 How important is this issue or task and what attention is required.
 * `Priority: Critical` - The issue causes data loss, crashes or hangs processes, makes the system unresponsive, etc.
 * `Priority: High` - The issue reports incorrect functionality, bad functionality, a confusing user experience, etc.
 * `Priority: Medium` - The issue reports cosmetic items, formatting, spelling, colors, etc.
 * `Priority: Low` - The issue would be a nice fix, but it mildly improves things that already work.
 
-#### Status
+### Status
 Describes the decision state of the issue or pull request.
 * `Status: blocked` - There is another issue that needs to be resolved first or some external blocker.
 * `Status: completed` - Nothing further to be done with this issue. Awaiting to be closed by project member.
@@ -55,8 +42,8 @@ Describes the decision state of the issue or pull request.
 * `Status: by-design` - The issue is a bug report of intended functionality.
 * `Status: cant-reproduce` - The issue is a bug and has been reviewed by a team member, but it cannot be replicated with the provided information and context. 
 * `Status: <release>` - The issue is scheduled to be implemented by <Release>.
-* 
-#### Type
+
+### Type
 Describes the type of issue or pull request.
 * `Type: breaking` - The issue is a breaking change which requires a major version bump.
 * `Type: bug` - The issue documents broken, incorrect, or confusing behavior. 
@@ -71,7 +58,7 @@ Describes the type of issue or pull request.
 * `Type: optimization` -
 * `Type: testing` - Adding missing tests or correcting existing tests.
 
-### Examples
+## Examples
 * [Logical Github Labels](https://seantrane.com/posts/logical-colorful-github-labels-18230/)
 * [Sane Github Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63)
 * [Robin Github Labels](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues)
