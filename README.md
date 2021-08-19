@@ -46,3 +46,4 @@ Describes the type of issue or pull request.
 * [Robin Github Labels](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues)
 * [Better Github Labels](https://blog.adam-marsden.co.uk/better-github-labels-f1360b43e0a7)
 * [sensible-github-labels](https://github.com/Relequestual/sensible-github-labels)
+* [SaltStack](https://docs.saltproject.io/en/latest/topics/development/labels.html)
