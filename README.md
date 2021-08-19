@@ -4,6 +4,8 @@
 ## Use
 :rocket: You can use the [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) to import the labels to your project.
 
+* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 ## How to organize product issues in Github
 A approach to managing consistency across multiple repositories.
 These are descriptive labels which help to manage the list of issues.
