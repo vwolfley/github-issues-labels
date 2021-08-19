@@ -24,19 +24,19 @@
     "color": "#3cc4ec"
   },
   {
-    "name": "Priority: Low",
+    "name": "Priority: low",
     "color": "#00b068"
   },
   {
-    "name": "Priority: Medium",
+    "name": "Priority: medium",
     "color": "#edc951"
   },
   {
-    "name": "Priority: High",
+    "name": "Priority: high",
     "color": "#eb6841"
   },
   {
-    "name": "Priority: Critical",
+    "name": "Priority: critical",
     "color": "#cc2a36"
   },
   {
@@ -52,7 +52,7 @@
     "color": "#87a2c7"
   },
   {
-    "name": "Status: In-Progress",
+    "name": "Status: in-progress",
     "color": "#1d76db"
   },
   {
@@ -66,7 +66,7 @@
   {
     "name": "Status: review-needed",
     "color": "#fbca04"
-  }
+  },
   {
     "name": "Status: wont-fix",
     "color": "#cccccc"
@@ -82,7 +82,8 @@
   {
     "name": "Type: bug",
     "color": "#b60205"
-  },{
+  },
+  {
     "name": "Type: discussion",
     "color": "#cc317c"
   },
