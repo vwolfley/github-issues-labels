@@ -45,3 +45,4 @@ Describes the type of issue or pull request.
 * [Sane Github Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63)
 * [Robin Github Labels](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues)
 * [Better Github Labels](https://blog.adam-marsden.co.uk/better-github-labels-f1360b43e0a7)
+* [sensible-github-labels](https://github.com/Relequestual/sensible-github-labels)
