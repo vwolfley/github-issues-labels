@@ -10,16 +10,16 @@ A approach to managing consistency across multiple repositories.
 ### Label Groups
 Mindless      | Experience | Priority | Status    | Type 
 --------      | --------   | ------   | ------    | -- 
-docs          | design     | low      | blocked   | bug |
-documentation | database   | medium   | completed | discussion |
-structure     | ux         | high     | duplicate | enhancement |
-|             | critical | in progress | feature |
-|            |          | inactive  | fix |
-|            |          | on-hold   | help needed |
-|            |          | review needed | idea |
-|            |          | wont-fix   | maintenance |
-|            |          | by-design   | optimization |
-|            |          | cant-reproduce | testing |
+docs          | design     | low      | blocked   | bug
+documentation | database   | medium   | completed | discussion
+structure     | ux         | high     | duplicate | enhancement
+|             |            | critical | in progress | feature
+|            |             |          | inactive  | fix
+|            |             |          | on-hold   | help needed
+|            |             |          | review needed | idea
+|            |             |          | wont-fix   | maintenance
+|            |             |          | by-design  | optimization
+|            |             |          | cant-reproduce | testing
 
 #### Mindless
 Reorganizing folder structure, updating documents, documentation, and other necessary but less impactful tasks.
