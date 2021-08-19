@@ -1,67 +1,121 @@
-[{
-  "name": "Issue: Bug",
-  "color": "#b60205"
-}, {
-  "name": "Issue: Enhancement",
-  "color": "#1c82b4"
-}, {
-  "name": "Issue: Question",
-  "color": "#cc317c"
-}, {
-  "name": "Issue: Maintenance",
-  "color": "#f37735"
-}, {
-  "name": "Issue: Discussion",
-  "color": "#cc317c"
-}, {
-  "name": "Issue: Feature",
-  "color": "#5fb434"
-}, {
-  "name": "Resolved",
-  "color": "#0e8a16"
-}, {
-  "name": "Resolved: By-Design",
-  "color": "#3865a3"
-}, {
-  "name": "Resolved: Duplicate",
-  "color": "#87a2c7"
-}, {
-  "name": "Resolved: Not-Repro",
-  "color": "#93a4b0"
-}, {
-  "name": "Resolved: Wont-Fix",
-  "color": "#cccccc"
-}, {
-  "name": "Priority: High",
-  "color": "#eb6841"
-}, {
-  "name": "Priority: Low",
-  "color": "#00b068"
-}, {
-  "name": "Priority: Medium",
-  "color": "#edc951"
-}, {
-  "name": "Priority: Critical",
-  "color": "#cc2a36"
-}, {
-  "name": "Info: help-wanted",
-  "color": "#5319e7"
-}, {
-  "name": "Status: In-Progress",
-  "color": "#1d76db"
-}, {
-  "name": "Status: Ready",
-  "color": "#006b75"
-}, {
-  "name": "Status: Blocked",
-  "color": "#ee4035"
-}, {
-  "name": "Status: On-Hold",
-  "color": "#ee9d35"
-}, {
-  "name": "Status: Completed",
-  "color": "#0e8a16"
-}, {
-  "name": "Status: Review-Needed",
-  "color": "#fbca04"
-}]
+[
+  {
+    "name": "Mindless: docs",
+    "color": "#cef2ac"
+  },
+  {
+    "name": "Mindless: documentation",
+    "color": "#cef2ac"
+  },
+  {
+    "name": "Mindless: structure",
+    "color": "#cef2ac"
+  },
+  {
+    "name": "Experience: design",
+    "color": "#3cc4ec"
+  },
+  {
+    "name": "Experience: database",
+    "color": "#3cc4ec"
+  },
+  {
+    "name": "Experience: ux",
+    "color": "#3cc4ec"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "#00b068"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "#edc951"
+  },
+  {
+    "name": "Priority: High",
+    "color": "#eb6841"
+  },
+  {
+    "name": "Priority: Critical",
+    "color": "#cc2a36"
+  },
+  {
+    "name": "Status: blocked",
+    "color": "#ee4035"
+  },
+  {
+    "name": "Status: completed",
+    "color": "#0e8a16"
+  },
+  {
+    "name": "Status: duplicate",
+    "color": "#87a2c7"
+  },
+  {
+    "name": "Status: In-Progress",
+    "color": "#1d76db"
+  },
+  {
+    "name": "Status: inactive",
+    "color": "#ee9d35"
+  },
+  {
+    "name": "Status: on-hold",
+    "color": "#ee9d35"
+  },
+  {
+    "name": "Status: review-needed",
+    "color": "#fbca04"
+  }
+  {
+    "name": "Status: wont-fix",
+    "color": "#cccccc"
+  },
+  {
+    "name": "Status: by-design",
+    "color": "#3865a3"
+  },
+  {
+    "name": "Status: cant-reproduce",
+    "color": "#93a4b0"
+  },
+  {
+    "name": "Type: bug",
+    "color": "#b60205"
+  },{
+    "name": "Type: discussion",
+    "color": "#cc317c"
+  },
+  {
+    "name": "Type: enhancement",
+    "color": "#1c82b4"
+  },
+  {
+    "name": "Type: feature",
+    "color": "#5fb434"
+  },
+  {
+    "name": "Type: fix",
+    "color": "#5fb434"
+  },
+  {
+    "name": "Type: help-needed",
+    "color": "#5319e7"
+  },
+  {
+    "name": "Type: idea",
+    "color": "#cc317c"
+  },
+  {
+    "name": "Type: maintenance",
+    "color": "#f37735"
+  },
+  {
+    "name": "Type: optimization",
+    "color": "#f37735"
+  },
+  {
+    "name": "Type: testing",
+    "color": "#f37735"
+  }
+]
