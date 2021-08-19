@@ -1,39 +1,39 @@
 [
   {
     "name": "Mindless: docs",
-    "color": "#cef2ac"
+    "color": "#FFEAB8"
   },
   {
     "name": "Mindless: documentation",
-    "color": "#cef2ac"
+    "color": "#FFEAB8"
   },
   {
     "name": "Mindless: structure",
-    "color": "#cef2ac"
+    "color": "#FFEAB8"
   },
   {
     "name": "Experience: design",
-    "color": "#3cc4ec"
+    "color": "#cef2ac"
   },
   {
     "name": "Experience: database",
-    "color": "#3cc4ec"
+    "color": "#cef2ac"
   },
   {
     "name": "Experience: ux",
-    "color": "#3cc4ec"
+    "color": "#cef2ac"
   },
   {
     "name": "Priority: low",
-    "color": "#00b068"
+    "color": "#0e8a16#FFEAB8"
   },
   {
     "name": "Priority: medium",
-    "color": "#edc951"
+    "color": "#fbca04"
   },
   {
     "name": "Priority: high",
-    "color": "#eb6841"
+    "color": "#ee4035"
   },
   {
     "name": "Priority: critical",
@@ -45,11 +45,11 @@
   },
   {
     "name": "Status: completed",
-    "color": "#0e8a16"
+    "color": "#7ED321"
   },
   {
     "name": "Status: duplicate",
-    "color": "#87a2c7"
+    "color": "#cccccc"
   },
   {
     "name": "Status: in-progress",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Status: inactive",
-    "color": "#ee9d35"
+    "color": "#cccccc"
   },
   {
     "name": "Status: on-hold",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Status: cant-reproduce",
-    "color": "#93a4b0"
+    "color": "#cccccc"
   },
   {
     "name": "Type: bug",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Type: discussion",
-    "color": "#cc317c"
+    "color": "#c495f0"
   },
   {
     "name": "Type: enhancement",
@@ -93,11 +93,11 @@
   },
   {
     "name": "Type: feature",
-    "color": "#5fb434"
+    "color": "#00FF00"
   },
   {
     "name": "Type: fix",
-    "color": "#5fb434"
+    "color": "#88d263"
   },
   {
     "name": "Type: help-needed",
@@ -105,18 +105,19 @@
   },
   {
     "name": "Type: idea",
-    "color": "#cc317c"
+    "color": "#6DE6FF"
   },
   {
     "name": "Type: maintenance",
-    "color": "#f37735"
+    "color": "#FFA500"
   },
   {
     "name": "Type: optimization",
-    "color": "#f37735"
+    "color": "#1c82b4"
   },
   {
     "name": "Type: testing",
-    "color": "#f37735"
+    "color": "#fbca04"
   }
 ]
+
